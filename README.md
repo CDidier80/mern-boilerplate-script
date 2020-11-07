@@ -6,7 +6,7 @@ A scipt to give you a basic file/folder setup and dependency installation for yo
 
 ## Setup and Use
 
-1. I keep my scripts in my root/home folder, in a sub-folder called scripts. I suggest you do the same or similar. To get to the root/home folder, in your terminal type cd ~ because the tilda ( ~ )is the symbol for the home folder. In your Mac Finder app it shows up as the one with a house icon. So all my scripts are stored in ~/scripts
+1. I keep my scripts in my root/home folder, in a sub-folder called scripts.  I suggest you do the same or similar. To get to the root/home folder, in your terminal type cd ~ because the tilda ( ~ )is the symbol for the home folder.  So all my scripts are stored in ~/scripts
 
    `mkdir scripts`
 
@@ -16,7 +16,7 @@ A scipt to give you a basic file/folder setup and dependency installation for yo
 
 4. Navigate to that folder in your terminal.
 
-   `cd ~/scipts`
+   `cd ~/scripts`
 
 5. Make the shell script executable. To do that you type the following in the terminal:
 
