@@ -39,3 +39,10 @@ A scipt to give you a basic file/folder setup and dependency installation for yo
    `what is the absolute path to your local project directory?`
 
    Paste in the path and the script will run!!!
+   
+9. Go into your package.json in your main folder and adjust your file to look like this to use nodemon:
+    `"scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js",
+      "dev": "nodemon server.js"
+  },`
