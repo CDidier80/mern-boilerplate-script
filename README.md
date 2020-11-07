@@ -10,7 +10,7 @@ A scipt to give you a basic file/folder setup and dependency installation for yo
 
    `mkdir scripts`
 
-2. This matters because to run a shell script from any directory in the terminal, you have to type out the full path. In my case I have to type out ~/scripts/git-script.sh to run the script. But we're getting ahead of ourselves.
+2. This matters because to run a shell script from any directory in the terminal, you have to type out the full path. In my case I have to type out ~/scripts/mern.sh to run the script. But we're getting ahead of ourselves.
 
 3. Copy the code chunk and then open a text editor, paste it in and then save it as [filename].sh. The .sh is the extension for shell scripts. Save the file in the directory you want to save it at - again I recommend ~/scripts as the folder to save your scripts in.
 
