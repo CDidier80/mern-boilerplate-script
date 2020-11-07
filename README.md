@@ -1,4 +1,4 @@
-# mern-boilerplate-script
+# Mern Boilerplate Script
 
 ## About
 
