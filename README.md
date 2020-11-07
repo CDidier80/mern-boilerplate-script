@@ -22,13 +22,15 @@ A scipt to give you a basic file/folder setup and dependency installation for yo
 
    `chmod +x <<the-correct-filename.sh>>`
 
-6. Navigate to your projects folder and make a new folder that you intend to house your project. Then `cd` into that folder, and run `pwd` to get the full path. Copy that - you will need to paste it shortly. It should look like `my-computer/my-projects/my-awesome-project`
-
+6. Navigate to your projects folder and make a new folder that you intend to house your project. 
+   
    `mkdir <<my-awesome-project>>`
-
+   
+   Then `cd` into that folder.
+   
    `cd <<my-awesome-project>>`
-
-   `pwd`
+   
+   and run `pwd` to get the full path. Copy that - you will need to paste it shortly. It should look like `my-computer/my-projects/my-awesome-project`
 
 7. Now run: `~/scripts/<<the-correct-filename.sh>>`
 
